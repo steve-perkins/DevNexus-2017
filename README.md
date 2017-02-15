@@ -16,4 +16,7 @@ Spring Cloud Config demo
 * [spring-config-server](https://github.com/steve-perkins/spring-config-server)
 * [spring-config-sample-app](https://github.com/steve-perkins/spring-config-sample-app)
 
+Vault client
+------------
+* [vault-java-driver](https://github.com/BetterCloud/vault-java-driver)
 
